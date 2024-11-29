@@ -1,2 +1,1 @@
-# sb-externalized-configuration
-Spring Boot Externalized Configuration
+# Spring Boot Externalized Configuration
