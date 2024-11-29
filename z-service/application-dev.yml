@@ -1,1 +1,2 @@
-verification-rule: otp
+verification:
+  card-info: otp
